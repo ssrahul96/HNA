@@ -42,17 +42,11 @@ C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\System.Windows.Controls
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\WPFToolkit.dll
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.csprojResolveAssemblyReference.cache
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Themes\IG\IG.MSControls.Core.Implicit.baml
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Themes\IG\IG.MSControls.Toolkit.Implicit.baml
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Themes\IG\Styles.Shared.baml
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Themes\IG\Styles.WPF.baml
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Themes\IG\Theme.Colors.baml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\MainWindow.g.cs
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Reports.g.cs
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\App.g.cs
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI_MarkupCompile.cache
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI_MarkupCompile.lref
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\App.baml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\MainWindow.baml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Reports.baml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.g.resources

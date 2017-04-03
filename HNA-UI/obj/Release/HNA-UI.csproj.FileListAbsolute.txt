@@ -28,3 +28,27 @@ C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Relea
 C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Release\HNA-UI.csproj.GenerateResource.Cache
 C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Release\HNA-UI.exe
 C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Release\HNA-UI.pdb
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\HNA-UI.exe.config
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.exe
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.pdb
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\HNA-UI.exe
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\HNA-UI.pdb
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\MySql.Data.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\Newtonsoft.Json.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\Ookii.Dialogs.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\Ookii.Dialogs.Wpf.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\WPFToolkit.dll
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\Newtonsoft.Json.xml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.csprojResolveAssemblyReference.cache
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\MainWindow.g.cs
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Reports.g.cs
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\App.g.cs
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI_MarkupCompile.cache
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI_MarkupCompile.lref
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\MainWindow.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Reports.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.g.resources
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA_UI.Properties.Resources.resources
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.csproj.GenerateResource.Cache
