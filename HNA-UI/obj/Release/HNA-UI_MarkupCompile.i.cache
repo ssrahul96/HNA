@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\
 HNA_UI
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\App.xaml
 2523656025
 
-131906920683
+1770649845
 21-1873162841
 MainWindow.xaml;Reports.xaml;
 

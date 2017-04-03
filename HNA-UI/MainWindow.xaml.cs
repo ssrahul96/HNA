@@ -29,6 +29,7 @@ namespace HNA_UI
         static UploadService us;
         Boolean includesd;
         Boolean sd;
+        static Dbconnect db;
 
         public MainWindow()
         {
@@ -217,6 +218,14 @@ namespace HNA_UI
             }
         }
 
+        private void button_database(object sender, RoutedEventArgs e)
+        {
+
+            this.Hide();
+            Reports reports = new Reports();
+            reports.ShowDialog();
+            this.Show();
+        }
 
         void shutdown()
         {
