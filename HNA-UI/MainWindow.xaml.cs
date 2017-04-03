@@ -16,7 +16,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using System.Windows.Controls;
+using System.Data;
 
 namespace HNA_UI
 {
@@ -217,15 +218,6 @@ namespace HNA_UI
             }
         }
 
-        private void button_database(object sender, RoutedEventArgs e)
-        {
-
-            this.Hide();
-            Reports reports = new Reports();
-            reports.ShowDialog();
-            this.Show();
-        }
-
         void shutdown()
         {
             var psi = new ProcessStartInfo("shutdown", "/s /t 0");
@@ -237,6 +229,16 @@ namespace HNA_UI
         {
             System.Windows.Application.Current.Shutdown();
         }
+
+        private void tab_changed(object sender, SelectionChangedEventArgs e)
+        {
+            Dbconnect db1 = new Dbconnect();
+            DataTable dt = db1.getData();
+            //dataGrid.IsHitTestVisible = false;
+            dataGrid.ItemsSource = dt.DefaultView;
+        }        
     }
+
+    
 }
 
