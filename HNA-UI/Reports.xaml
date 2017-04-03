@@ -9,8 +9,7 @@
         Title="Reports" Height="500" Width="600">
     <Grid>
         <Button x:Name="button" Content="Close" HorizontalAlignment="Left" Margin="260,420,0,0" VerticalAlignment="Top" Width="70" Click="button_Click"/>
-        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="350" Width="540"/>
-        
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Height="350" Width="540"/> 
         
         
     </Grid>

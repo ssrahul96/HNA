@@ -16,7 +16,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using System.Windows.Controls;
+using System.Data;
 
 namespace HNA_UI
 {
@@ -236,6 +237,14 @@ namespace HNA_UI
         private void ExitMenu_Click(object sender, RoutedEventArgs e)
         {
             System.Windows.Application.Current.Shutdown();
+        }
+
+        private void tab_changed(object sender, SelectionChangedEventArgs e)
+        {
+            Dbconnect db1 = new Dbconnect();
+            DataTable dt = db1.getData();
+            //dataGrid.IsHitTestVisible = false;
+            dataGrid.ItemsSource = dt.DefaultView;
         }
     }
 }

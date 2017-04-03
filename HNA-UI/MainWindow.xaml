@@ -47,7 +47,7 @@
     </Window.Resources>
 
     <Grid>
-        <TabControl>
+        <TabControl SelectionChanged="tab_changed">
             <TabItem Header="Monitor" HorizontalAlignment="Left" Height="50" Width="290">
                 <Grid Background="#DBECF6">
 
@@ -117,8 +117,8 @@
                     <Button x:Name="button_db" Content="Database" HorizontalAlignment="Left" Margin="467,225,0,0" VerticalAlignment="Top" Width="75" Click="button_database" RenderTransformOrigin="0.373,6.45"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="Database" HorizontalAlignment="Right" Height="50" Width="290" Margin="0,0,0,0">
-                    
+            <TabItem Header="Database" HorizontalAlignment="Right" Height="50" Width="290" Margin="0,0,0,0" >
+                <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="490" Width="570"/>
             </TabItem>
         </TabControl>
     </Grid>
