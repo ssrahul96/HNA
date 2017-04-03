@@ -28,3 +28,17 @@ C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Relea
 C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Release\HNA-UI.csproj.GenerateResource.Cache
 C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Release\HNA-UI.exe
 C:\Users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Release\HNA-UI.pdb
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.csprojResolveAssemblyReference.cache
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Themes\IG\IG.MSControls.Core.Implicit.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Themes\IG\IG.MSControls.Toolkit.Implicit.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Themes\IG\Styles.Shared.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Themes\IG\Styles.WPF.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Themes\IG\Theme.Colors.baml
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\MainWindow.g.cs
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\Reports.g.cs
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\App.g.cs
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI_MarkupCompile.cache
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI_MarkupCompile.lref
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.exe
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.pdb
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Release\HNA-UI.exe.config
