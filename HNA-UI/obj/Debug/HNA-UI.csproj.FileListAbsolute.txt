@@ -1,36 +1,4 @@
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\HNA-UI.exe.config
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\HNA-UI.exe
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\HNA-UI.pdb
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\Ookii.Dialogs.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\Ookii.Dialogs.Wpf.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\WPFToolkit.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI.csprojResolveAssemblyReference.cache
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Themes\IG\IG.MSControls.Core.Implicit.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Themes\IG\IG.MSControls.Toolkit.Implicit.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Themes\IG\Styles.Shared.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Themes\IG\Styles.WPF.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Themes\IG\Theme.Colors.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\MainWindow.g.cs
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\App.g.cs
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI_MarkupCompile.cache
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI_MarkupCompile.lref
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\App.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\MainWindow.baml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI.g.resources
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA_UI.Properties.Resources.resources
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI.csproj.GenerateResource.Cache
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI.exe
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\HNA-UI.pdb
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\Newtonsoft.Json.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\Newtonsoft.Json.xml
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\bin\Debug\MySql.Data.dll
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Reports.g.cs
-c:\users\ssrahul96\documents\visual studio 2015\Projects\HNA-UI\HNA-UI\obj\Debug\Reports.baml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.exe.config
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.exe
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.pdb
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.exe
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.pdb
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\MySql.Data.dll
@@ -41,14 +9,13 @@ C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\System.Windows.Controls
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\WPFToolkit.dll
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\Newtonsoft.Json.xml
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.csprojResolveAssemblyReference.cache
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\MainWindow.g.cs
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Reports.g.cs
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\App.g.cs
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI_MarkupCompile.cache
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI_MarkupCompile.lref
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\MainWindow.baml
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\Reports.baml
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.g.resources
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA_UI.Properties.Resources.resources
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.csproj.GenerateResource.Cache
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.exe
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.pdb

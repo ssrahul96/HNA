@@ -113,8 +113,6 @@
                         <Button Grid.Column="0" Background="#609F2D" Foreground="#FFFFFF" x:Name="button_start" Content="Start" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="70" Width="298" Click="button_Start" />
                         <Button Grid.Column="1" Background="#609F2D" Foreground="#FFFFFF" x:Name="button_stop" Content="Stop" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="70" Width="298" Click="button_Stop" />
                     </Grid>
-
-                    <Button x:Name="button_db" Content="Database" HorizontalAlignment="Left" Margin="467,225,0,0" VerticalAlignment="Top" Width="75" Click="button_database" RenderTransformOrigin="0.373,6.45"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Database" HorizontalAlignment="Right" Height="50" Width="290" Margin="0,0,0,0" >
