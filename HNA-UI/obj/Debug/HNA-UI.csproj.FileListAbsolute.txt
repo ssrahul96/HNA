@@ -1,3 +1,6 @@
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.exe.config
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.exe
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.pdb
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\MySql.Data.dll
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\Ookii.Dialogs.dll
@@ -16,7 +19,3 @@ C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA_UI.Properties.Resou
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.csproj.GenerateResource.Cache
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.exe
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.pdb
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.exe.config
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.exe
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\bin\Debug\HNA-UI.pdb
-C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Debug\HNA-UI.csprojResolveAssemblyReference.cache

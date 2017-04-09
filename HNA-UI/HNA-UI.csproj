@@ -85,10 +85,7 @@
     <Compile Include="Dbconnect.cs" />
     <Compile Include="Jsonobject1.cs" />
     <Compile Include="Jsonobject2.cs" />
-    <Compile Include="ListViewObject.cs" />
-    <Compile Include="Mdata.cs" />
     <Compile Include="NotifyService.cs" />
-    <Compile Include="UploadService.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -97,6 +94,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ListViewObject.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

@@ -19,11 +19,12 @@ namespace HNA_UI
 
         internal void putdata(string mdate, string mtime, string message, string path)
         {
+
             try
             {                
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = conn;
-                cmd.CommandText = "INSERT INTO records(ddate,dtime,dmessage,dpath) VALUES(@mdate, @mtime,@message,@path)";
+                cmd.CommandText = "INSERT INTO records(ddate,dtime,dmessage,dpath,dstatus) VALUES(@mdate, @mtime,@message,@path,'P')";
                 cmd.Parameters.AddWithValue("@mdate", mdate);
                 cmd.Parameters.AddWithValue("@mtime", mtime);
                 cmd.Parameters.AddWithValue("@message", message);
@@ -42,21 +43,13 @@ namespace HNA_UI
 
         }
 
-        internal DataTable getData()
+        public DataTable getData()
         {
             string getquery = @"select * from records";
             MySqlCommand cmd = new MySqlCommand(getquery, conn);
             DataTable dt=null;
             try
             {
-                //MySqlDataReader rdr = cmd.ExecuteReader();
-
-                //Debug.WriteLine("{0} {1} {2} {3} {4}",rdr.GetName(0), rdr.GetName(1), rdr.GetName(2), rdr.GetName(3), rdr.GetName(4));
-
-                //while (rdr.Read())
-                //{
-                //    Debug.WriteLine("{0} {1} {2} {3} {4}", rdr.GetString(0),rdr.GetString(1), rdr.GetString(2), rdr.GetString(3), rdr.GetString(4));
-                //}
                 MySqlDataAdapter sda = new MySqlDataAdapter(cmd);
                 dt = new DataTable("Reports");
                 sda.Fill(dt);
@@ -71,6 +64,21 @@ namespace HNA_UI
                 Debug.WriteLine("conn state " + conn.State);
             }
             return dt;
+        }
+
+        public void update(Int16 id)
+        {
+            try
+            {
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = "Update records set dstatus='C' where id ="+id;
+                cmd.ExecuteNonQuery();
+            }
+            catch(Exception e)
+            {
+                Debug.WriteLine("Error: {0}", e.ToString());
+            }
         }
     }
 }

@@ -25,15 +25,13 @@ namespace HNA_UI
     {
         static string path;
         Thread startthread;
-        static int countitme;
-        static UploadService us;
         Boolean includesd;
         Boolean sd;
         static Dbconnect db;
 
         public MainWindow()
         {
-
+            db = new Dbconnect();
             InitializeComponent();
             this.Icon = BitmapFrame.Create(System.Windows.Application.GetResourceStream(new Uri("Hna_icon.ico", UriKind.RelativeOrAbsolute)).Stream);
             Hide();
@@ -131,11 +129,7 @@ namespace HNA_UI
 
         void startmonitor()
         {
-            countitme = 0;
-            us = new UploadService();
-
-            Thread t = new Thread(timer);
-            t.Start();
+     
 
             this.Dispatcher.Invoke(() =>
             {
@@ -171,14 +165,13 @@ namespace HNA_UI
         {
             WatcherChangeTypes wct = e.ChangeType;
             Debug.WriteLine("File {0} {1}", e.FullPath, wct.ToString());
-            us.upload(wct.ToString(), e.FullPath, countitme);
+
+            db.putdata(DateTime.Now.ToString("dd-MM-yyyy"), DateTime.Now.ToString("HH-mm-ss"), wct.ToString(), path);
 
             this.Dispatcher.Invoke(() =>
             {
                 listView.Items.Add(new ListViewObject() { File= wct.ToString() , Path = e.FullPath,Oldname="" });
             });
-            countitme = countitme + 1;
-            Debug.WriteLine("Upload " + countitme);
 
             if (sd)
             {
@@ -191,15 +184,15 @@ namespace HNA_UI
 
             WatcherChangeTypes wct = e.ChangeType;
             Debug.WriteLine("File {0} {1} {2}", e.FullPath, wct.ToString(), e.OldName);
-            us.upload(e.OldName + " " + wct.ToString() + " " + e.Name, e.FullPath, countitme);
+
+            db.putdata(DateTime.Now.ToString("dd-MM-yyyy"), DateTime.Now.ToString("HH-mm-ss"), wct.ToString(), path);
+            //us.upload(e.OldName + " " + wct.ToString() + " " + e.Name, e.FullPath, countitme);
 
             this.Dispatcher.Invoke(() =>
             {
                 listView.Items.Add(new ListViewObject() { File = wct.ToString(), Path = e.FullPath, Oldname = e.OldName });
             });
             
-            countitme = countitme + 1;
-            Debug.WriteLine("Upload " + countitme);
 
             if (sd)
             {
@@ -207,16 +200,6 @@ namespace HNA_UI
             }
         }
 
-        static void timer()
-        {
-            int temp = 0;
-            while (temp < 1)
-            {
-                Thread.Sleep(10000);
-                countitme = 0;
-                Debug.WriteLine("Thread " + countitme);
-            }
-        }
 
         void shutdown()
         {
@@ -236,6 +219,8 @@ namespace HNA_UI
             DataTable dt = db1.getData();
             //dataGrid.IsHitTestVisible = false;
             dataGrid.ItemsSource = dt.DefaultView;
+            NotifyService ns = new NotifyService();
+            ns.notify("hi");
         }        
     }
 
