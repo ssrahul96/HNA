@@ -1,0 +1,33 @@
+﻿Uninstalling assembly 'C:\Users\ssrahul96\Documents\GitHub\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssrahul96\Documents\GitHub\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\ssrahul96\Documents\GitHub\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+Removing EventLog source HNA Service.
+Service HNA Service is being removed from the system...
+Service HNA Service was successfully removed from the system.
+Attempt to stop service HNA Service.
+Installing assembly 'C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   logtoconsole = 
+Installing service HNA Service...
+Service HNA Service has been successfully installed.
+Creating EventLog source HNA Service in log Application...
+Committing assembly 'C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\Users\ssrahul96\Documents\GitHub\HNA\WindowsService\WindowsServiceCS\bin\Release\WindowsServiceCS.exe
+Removing EventLog source HNA Service.
+Service HNA Service is being removed from the system...
+Service HNA Service was successfully removed from the system.
+Attempt to stop service HNA Service.

@@ -19,3 +19,4 @@ C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA_UI.Properties.Res
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.csproj.GenerateResource.Cache
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.exe
 C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.pdb
+C:\Users\ssrahul96\Documents\GitHub\HNA\HNA-UI\obj\Release\HNA-UI.csprojResolveAssemblyReference.cache

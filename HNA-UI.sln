@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HNA-UI", "HNA-UI\HNA-UI.csproj", "{2A84F853-6B0E-4541-BC3B-8EE30E218259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceCS", "..\WindowsService\WindowsServiceCS\WindowsServiceCS.csproj", "{A83430C4-A230-4CF5-817A-38DBE150BE7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceCS", "WindowsService\WindowsServiceCS\WindowsServiceCS.csproj", "{A83430C4-A230-4CF5-817A-38DBE150BE7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
