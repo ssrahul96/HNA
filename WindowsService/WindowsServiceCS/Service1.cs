@@ -100,7 +100,7 @@ namespace WindowsServiceCS
 
                             if (count == 1)
                                 ns.notify(dpath);
-                            //db.update(Convert.ToInt16(dr["id"]));
+                            db.update(Convert.ToInt16(dr["id"]));
                         }
                     }
 
