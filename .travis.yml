@@ -1,7 +1,6 @@
 language: csharp
 solution: HNA-UI.sln
 install:
-  - sudo apt-get install -y gtk-sharp2
   - nuget restore HNA-UI.sln
 script:
   - xbuild /p:Configuration=Release HNA-UI.sln
