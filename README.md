@@ -1,1 +1,1 @@
-https://ci.appveyor.com/api/github/webhook?id=8y4vavt4ahh0ug24
+https://ci.appveyor.com/api/projects/status/tvyme1dlpof8tnio?svg=true
