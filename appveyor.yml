@@ -1,6 +1,7 @@
 version: 1.0.{build}
 build:
   publish_nuget: true
+  project: HNA-UI.sln
   publish_nuget_symbols: true
   include_nuget_references: true
   verbosity: minimal
