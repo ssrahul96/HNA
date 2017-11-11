@@ -1,6 +1,0 @@
-language: csharp
-solution: HNA-UI.sln
-install:
-  - nuget restore HNA-UI.sln
-script:
-  - xbuild /p:Configuration=Release HNA-UI.sln
